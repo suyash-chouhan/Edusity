@@ -38,6 +38,12 @@ a{
   justify-content: center;
 }
 
+.btn:hover{
+  background: #212528;
+  color: #fff;
+  
+}
+
 .btn img{
   margin-left: 10px;
   width: 20px;
