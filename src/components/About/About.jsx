@@ -11,7 +11,7 @@ const About = ({setPlayState}) => {
       </div>
       <div className="about-right">
         <h3>ABOUT UNIVERSITY</h3>
-        <h2>Nurturing Tommorow's Leader's Today</h2>
+        <h2>"Where Learning Meets Innovation"</h2>
 
         <p>Embark on a transformative educational journey with our university's comprehensive education programs. Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education.</p>
 
